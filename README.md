@@ -6,7 +6,7 @@ A simple shopping cart application made with React JS
 
  Click Here to view the deployment!
  
- [![Deploy](https://img.icons8.com/color/48/000000/launched-rocket--v2.png)](#)
+ [![Deploy](https://img.icons8.com/color/48/000000/launched-rocket--v2.png)](https://reactcartapp.netlify.app/)
  
 <h1>View Demo</h1>
 <p align="center">
