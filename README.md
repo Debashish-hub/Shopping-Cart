@@ -12,5 +12,5 @@ A simple shopping cart application made with React JS
 <p align="center">
   <img src="1.png" alt="1" /><br/><br/>
   <img src="2.png" alt="2" /><br/><br/>
-  <img src="2.png" alt="3" /><br/><br/>
+  <img src="3.png" alt="3" /><br/><br/>
 </p>
